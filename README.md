@@ -20,13 +20,13 @@ Sobre o site:
 
 Você precisará estar autenticado para acessar o site, para isso use uma das 3 contas abaixo:
 
-e-mail: mario@email.com
+e-mail: mario@email.com 
 senha: 111111
 
-e-mail: luigi@email.com
+e-mail: luigi@email.com 
 senha: 222222
 
-e-mail: yoshi@email.com
+e-mail: yoshi@email.com 
 senha: 333333
 
 obs: essas contas estão na nuvem, gerenciadas por uma ferramenta do Google chamada Firebase Authenticator e conectadas a minha conta pessoal Google. Dentro da pasta frontend, na pasta src, você encontrará um componente chamado base.js, ele contem as configurações para conectar ao Firebase, assim você poderá mudar as configurações para conectar com a sua conta.
