@@ -1,6 +1,16 @@
 # trabalhoFinal_web_ufrr_2021.1
 Trabalho final de Arquitetura E Desenvolvimento De Sistemas Web, da UFRR, prof. Acauan Ribeiro, semestre 2021.1
 
+Sobre o projeto
+
+Este projeto consiste em um site, com backend e frontend, no qual é possível, ver, criar e deletar postagens de um blog.
+
+O frontend se comunica com o backend pela porta 3333.
+
+O backend amazena as postagens do blog em um banco de dados sqlite3, armazenando títutlo, texto da postagem, autor e imagens.
+
+____________________________________________________________
+
 Passos:
 
 1 - Instalar o yarn: npm install --global yarn
@@ -15,6 +25,7 @@ Passos:
 
 6 - Acesse o site na url: localhost:3000
 
+____________________________________________________________
 
 Sobre o site:
 
