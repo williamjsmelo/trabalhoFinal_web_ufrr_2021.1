@@ -7,7 +7,7 @@ import app from "./base";
 
 const Home = () => {
 
-    const {data:blogs, isLoading, error} = useFetch('http://localhost:8000/blogs');
+    const {data:blogs, isLoading, error} = useFetch('http://localhost:3333/orphanages');
 
     return ( 
         <div className="home">
