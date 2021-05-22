@@ -1,5 +1,5 @@
 # trabalhoFinal_web_ufrr_2021.1
-<h1>Trabalho final de Arquitetura E Desenvolvimento De Sistemas Web, da UFRR, prof. Acauan Ribeiro, semestre 2021.1</h1>
+<h2>Trabalho final de Arquitetura E Desenvolvimento De Sistemas Web, da UFRR, prof. Acauan Ribeiro, semestre 2021.1</h2>
 
 Sobre o projeto
 
