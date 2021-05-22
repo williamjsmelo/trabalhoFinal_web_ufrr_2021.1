@@ -31,3 +31,16 @@ senha: 333333
 
 obs: essas contas estão na nuvem, gerenciadas por uma ferramenta do Google chamada Firebase Authenticator e conectadas a minha conta pessoal Google. Dentro da pasta frontend, na pasta src, você encontrará um componente chamado base.js, ele contem as configurações para conectar ao Firebase, assim você poderá mudar as configurações para conectar com a sua conta.
 
+____________________________________________________________
+
+
+Itens do trabalho final que foram feitos:
+
+1.1 - OK
+
+1.2 - Não implementado
+
+1.3 - OK
+
+1.4 (Desafio) - OK
+
